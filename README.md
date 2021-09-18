@@ -1,4 +1,4 @@
-Machine Code is the best Programming Paradigm ngl
+Machine Code is the best Programming Language ngl
 
 
 
