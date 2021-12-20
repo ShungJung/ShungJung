@@ -1,4 +1,5 @@
-Machine Code is the best Programming Language ngl
+Program with Cpu instructions very sigma
+
 
 
 
