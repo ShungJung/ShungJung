@@ -6,13 +6,15 @@
 ## Skills
 
 Languages - 
-
+	
+	Rust
 	Python
 	Javascript / Typescript
 	Html, Css
 
 Tools - 
 
+	Tauri
 	React.js
 	Node.js
  	Deno
