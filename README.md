@@ -1,5 +1,5 @@
-# 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 
-### Hello, I'm Shung Jung
+<h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 </h1>
+Hello, I'm Shung Jung
 
 <h1 align="center"> 💻 Technologies </h1>
 <p align="center"> 
