@@ -1,10 +1,8 @@
-<p>
-    <h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 <h1/>
-    <h3 align="center"> Hello, I'm Shung Jung<h3/>
-</p>
+# 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 
+### Hello, I'm Shung Jung
 
+## 💻 Technologies
 <p align="center"> 
-    <h1 align=""> 💻 Technologies  <h1/>
     <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -15,9 +13,8 @@
     <img align="center" alt="reactjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="py" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
-<br />
 
-<h1 align="center"> 📈 Statistics  <h1/>
+## 📈 Statistics
 <a href="https://github.com/shungjung">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shungjung&show_icons=true&theme=gruvbox" />
 </a>
