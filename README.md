@@ -1,8 +1,10 @@
-<h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 <h1/>
-<h3 align="center"> Hello, I'm Shung Jung<h3/>
+<p>
+    <h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 <h1/>
+    <h3 align="center"> Hello, I'm Shung Jung<h3/>
+</p>
 
-<h1 align="center"> 💻 Technologies  <h1/>
 <p align="center"> 
+    <h1 align=""> 💻 Technologies  <h1/>
     <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
