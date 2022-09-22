@@ -1,6 +1,6 @@
 <h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 <h1/>
     
-<h3 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 <h3/>
+<h3 align="center"> Hello, I'm Shung Jung<h3/>
     
 <h1 align="center"> 💻 Technologies  <h1/>
 <p align="center"> 
