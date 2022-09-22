@@ -2,7 +2,7 @@
 Hello, I'm Shung Jung
 
 <h1 align="center"> 💻 Technologies </h1>
-<p align="center"> 
+<p align="left"> 
     <img align="center" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
     </br>
     <img align="center" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
