@@ -1,5 +1,5 @@
 <h1 align="center"> 𝒮𝒽𝓊𝓃𝑔 𝒥𝓊𝓃𝑔 </h1>
-Hello, I'm Shung Jung
+<p align="center"> Hello I'm Shung Jung </p>
 
 <h1 align="center"> 💻 Technologies </h1>
 <p align="left"> 
